@@ -15,4 +15,7 @@ I'm an Applied Mathematics & Informatics student passionate about AI, algorithmi
   - training intelligent models 
 
 - **I’m looking for help with:**  
-  - Mastering C++  
+  - Mastering C++
+ 
+### 🛠️
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
