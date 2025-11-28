@@ -19,3 +19,7 @@ I'm an Applied Mathematics & Informatics student passionate about AI, algorithmi
  
 ### 🛠️
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
+
