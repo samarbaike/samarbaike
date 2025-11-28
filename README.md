@@ -16,6 +16,3 @@ I'm an Applied Mathematics & Informatics student passionate about AI, algorithmi
 
 - **I’m looking for help with:**  
   - Mastering C++  
-
-- **How to reach me:**  
-  - Instagram: **@samar.baike**
