@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**samarbaike/samarbaike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **I’m currently working on:**
+  - Fine-tuning pre-trained AI models to generate specialized question types  
+  - Launching a web app that helps high school students prepare for national exams
 
-Here are some ideas to get you started:
+- 🌱 **I’m currently learning:**
+  - C++ for web development and machine learning  
+  - Python for augmented model training  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 **I’m looking to collaborate on:**  
+  - Web app development projects
+  - training intelligent models 
+
+- 🤔 **I’m looking for help with:**  
+  - Mastering C++  
+
+- 📫 **How to reach me:**  
+  - Instagram: **@samar.baike**
