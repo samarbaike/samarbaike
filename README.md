@@ -1,4 +1,4 @@
-## Assalamu aleikum world
+## Hellllloo, world
 
 I'm an Applied Mathematics & Informatics student passionate about AI, algorithmic thinking, and building useful tools for students. I work at the intersection of education, software engineering, and machine learning
 
